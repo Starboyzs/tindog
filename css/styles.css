@@ -153,6 +153,10 @@ p {
 .Copyright {
 	line-height: 5;
 }
+.ico{
+	color: #EF8172;
+	font-size:3rem;
+}
 
 @media (max-width:1310px) {
 	#title {
